@@ -12,5 +12,5 @@ def gcd(m,n):
 
 
 a=int(input("enter first number"))
-c=int(input("enter second number"))
-print "gcd of numbers is : ",gcd(a,c)
+b=int(input("enter second number"))
+print "gcd of numbers is : ",gcd(a,b)
